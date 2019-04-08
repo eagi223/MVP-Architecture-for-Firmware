@@ -19,3 +19,8 @@ Our presenter will handle any necessary logic between the Model and View. It wil
 
 **View**
 Our view is closely related to the hardware itself, so it may change if our hardware changes. The view will take actions (from outside the device) such as user input/buttons/sensors/etc...
+
+## Button Example
+This isn't the best example because it kind of looks like data is only flowing from View to Presenter to Model, when in reality, the communication is 2 way between both the View and Presenter and the Model and Presenter. Nonetheless, it's making for a decent starting point.
+
+![]
